@@ -4,7 +4,7 @@ return array(
 	//Tytuły
 	'Blocked addresses' => 'Заблокированные адреса',
 	'Blacklist' => 'Черный список',
-	'Blocked address edition' => 'Edycja zablokowanego adresu',
+	'Blocked address edition' => 'Редактирование заблокированного адреса',
 
 	//Оповещения
 	'Address has been added to the blacklist.' => 'Адрес добавлен в черный список.',
