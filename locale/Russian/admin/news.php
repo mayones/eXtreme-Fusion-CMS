@@ -1,0 +1,51 @@
+<?php defined('EF5_SYSTEM') || exit;
+
+return array(
+	'Section' => 'Секция',
+	'News' => 'Новости',
+	'Cats' => 'Категории',
+	'Current news'  => 'Созданные новости',
+	'Id:' => 'Id:',
+	'Publication date:' => 'Дата публикпции:',
+	'Create news' => 'Создание новости',
+	'News title:' => 'Заголовок новости:',
+	'News category:' => 'Категория новости:',
+	'Keywords:' => 'Ключевые слова:',
+	'News source:' => 'Источник новости:',
+	'News content:' => 'Содержание новости:',
+	'Extended content:' => 'Полное содержание:',
+	'Save as a draft' => 'Сохранить черновик',
+	'Make sticky' => 'Прикрепить',
+	'Enable comments' => 'Включить комментарии',
+	'Enable ratings' => 'Включить оценки',
+	'[DRAFT]' => '[ЧЕРНОВИК]',
+	'News has been edited.' => 'Новость отредактирована.',
+	'Error! News has not been updated.' => 'Произошла ошибка! Новость не была отредактирована.',
+	'News has been deleted.' => 'Новость удалена.',
+	'Error! News has not been deleted.' => 'Произошла ошибка! Новость не была удалена.',
+	'News has been added.' => 'Новость добавлена.',
+	'Error! News has not been added.' => 'Произошла ошибка! Новость не была добавлена.',
+	// Старые файлы news cats
+	'News categories' => 'Категории новостей',
+	'Existing news categories' => 'Созданные категории',
+	'News category has been added.' => 'Категория добавлена.',
+	'News category has been edited.' => 'Категория изменена.',
+	'News category has been deleted.' => 'Категория новостей удалена.',
+	'Error! News category has not been added.' => 'Ошибка! Категория новостей не была добавлена.',
+	'Error! News category has not been edited.' => 'Ошибка! Категоря новостей не была отредактирована.',
+	'Error! News category has not been deleted.' => 'Ошибка! Категория новостей не была удалена.',
+	'Error! News category has not been deleted. There are news in category.' => 'Произогла ошибка! Категория не удалена. В данной категории имеются записи.',
+	'Category name:' => 'Название категории:',
+	'Category image:' => 'Изображение категории:',
+	'Category language:' => 'Язык категории:',
+	'There are no existing news categories.' => 'Категории новостей отсутствуют.',
+	'Same as a site language.' => 'Такой же, как и язык сайта.',
+	'Language:' => 'Язык:',
+	// Добавить во всю систему
+
+	'Polish' => 'Польский',
+	'English' => 'Английский',
+	'Czech' => 'Чешский',
+
+
+);
